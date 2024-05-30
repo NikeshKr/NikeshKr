@@ -1,7 +1,3 @@
-Creating a detailed and visually appealing README for your GitHub profile can significantly enhance your online presence. Here's a draft for your GitHub profile README based on the information from your resume and GitHub profile:
-
----
-
 # 👋 Hi, I'm Nikesh Kumar
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nikesh%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikeshkumar1309/)](https://www.linkedin.com/in/nikeshkumar1309/)
