@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated Data Science and Ma
 ## 🚀 About Me
 
 - 🎓 **Education**:
-  - **B. Tech** in Computer Science, NSUT, Delhi (2020-2024) - 9.06 CGPA
+  - **B. Tech** in Computer Science, NSUT, Delhi (2020-2024) - 9.22 CGPA
   - **CBSE (Class XII)**, Vivekanand Public School, Delhi (2019) - 87%
   - **CBSE (Class X)**, Vivekanand Public School, Delhi (2017) - 10 CGPA
 
