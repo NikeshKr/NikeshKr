@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm a passionate and motivated Data Science and Ma
   - Key-Logger, Pdf to CSV converter & Amazon Web Scrapper (compares live prices of products with Flipkart)
 
 - 🏆 **Achievements**:
-  - Secured AIR 877 among 89k+ participants in IICC - Innovate India Coding Championship Round -1 (launched by AICTE) held on 20th July 2022.
+  - Vice Chancellor's Gold Medal Recipient
+  - First Division with Honors
   - Won at Zonal Level Debate and Declamation Competitions (English and Hindi).
   - Qualified in both stages of All India Talent Search Examination (A.I.T.S) sponsored by International Children’s Equity Fund (INCEF) and won a scholarship.
   - Won in various International Olympiads and competitions in Maths, Science, Social Studies, Informatics, Poetry Writing, and Drawing.
