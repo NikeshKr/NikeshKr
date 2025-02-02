@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nikesh%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikeshkumar1309/)](https://www.linkedin.com/in/nikeshkumar1309/)
 [![Gmail Badge](https://img.shields.io/badge/-nikeshkumar1309@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikeshkumar1309@gmail.com)](mailto:nikeshkumar1309@gmail.com)
 
-Welcome to my GitHub profile! I'm a passionate and motivated Data Science and Machine Learning enthusiast currently pursuing my B. Tech at NSUT, Delhi. I have hands-on experience with various technologies and have worked on several interesting projects. 
+Welcome to my GitHub profile! I'm a passionate and motivated Data Science and Machine Learning enthusiast. I have hands-on experience with various technologies and have worked on several interesting projects. 
 
 ## 🚀 About Me
 
